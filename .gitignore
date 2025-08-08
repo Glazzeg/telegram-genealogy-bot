@@ -1,5 +1,1 @@
-.env
-*.db
-__pycache__/
-*.pyc
-.idea/
+".env\ngenealogy.db\n__pycache__/\n*.pyc\n.idea/\ndrevo.ged.files/" 
